@@ -1,5 +1,5 @@
 
-FROM alpine
+FROM did44m9k.mirror.aliyuncs.com/library/alpine:latest
 
 ADD mdns-repeater.c mdns-repeater.c
 
