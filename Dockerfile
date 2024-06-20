@@ -15,3 +15,4 @@ RUN chmod a+x entrypoint.sh
 #CMD mdns-repeater -f ${options} ${hostNIC} ${dockerNIC}
 
 ENTRYPOINT [ "/entrypoint.sh" ]
+
